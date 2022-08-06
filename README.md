@@ -19,6 +19,7 @@ index = 최상위 ( configureStore )
 - firebase에 fetch 요청로직은 cart-actions.js ( createSlice )
 - cart 장바구니를 숨기고 보여주는 로직은 cart.js ( createSlice )
 ```
+<img width="209" alt="image" src="https://user-images.githubusercontent.com/96061695/183241165-92ad692d-1026-4666-a03e-d52b6b5f9011.png">
 
 
 <img width="1255" alt="image" src="https://user-images.githubusercontent.com/96061695/183240631-787cb484-1b3a-433b-a6bf-28ba97eb48a2.png">
