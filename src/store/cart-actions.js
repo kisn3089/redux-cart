@@ -48,10 +48,8 @@ export const sendCartData = (cart) => {
                   body: JSON.stringify({
                     productItem: cart.productItem,
                     totalItem: cart.totalItem,
-
                   }),
                 });
-          
           
                 if(!response.ok) {
                   throw new Error('Sending cart data failed!');
